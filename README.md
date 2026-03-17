@@ -19,7 +19,7 @@
 
 ```typescript
 const gustyCube = {
-  name:    "Bennett (GustyCube)",
+  name:    "Bennett Schwartz (GustyCube)",
   role:    "Full Stack Developer & Systems Builder",
   focus:   ["AI/Agent Systems", "Networking Infrastructure", "Open Source Research"],
   ventures: {
@@ -39,6 +39,7 @@ const gustyCube = {
 | Project | Description | Status |
 |--------|-------------|--------|
 | [**Membrane**](https://github.com/GustyCube/membrane) | Typed, revisable, decayable memory substrate for agentic AI systems — with competence learning & trust-aware retrieval | 🟢 Active |
+| [**Github Commits Leaderboard**](https://ghcommits.com/) | See where you rank against other Github users in all-time commits! | 🟢 Active |
 | [**Ignyte Solutions**](https://ignyte.solutions) | Infrastructure-level networking: portable public IPv4 via WireGuard tunnels & DDoS-filtered edge ingress | 🟢 Active |
 | [**ERR-EVAL**](https://github.com/GustyCube/ERR-EVAL) | Benchmark for AI epistemic reliability — uncertainty handling, hallucination avoidance, and self-knowledge | 🟢 Active |
 [**spyder**](https://github.com/GustyCube/spyder) | Distributed DNS + HTTP crawler with queueing, dedup, tracing, and ingest batching | 🟢 Active |
