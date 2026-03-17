@@ -41,8 +41,8 @@ const gustyCube = {
 | [**Membrane**](https://github.com/GustyCube/membrane) | Typed, revisable, decayable memory substrate for agentic AI systems — with competence learning & trust-aware retrieval | 🟢 Active |
 | [**Ignyte Solutions**](https://ignyte.solutions) | Infrastructure-level networking: portable public IPv4 via WireGuard tunnels & DDoS-filtered edge ingress | 🟢 Active |
 | [**ERR-EVAL**](https://github.com/GustyCube/ERR-EVAL) | Benchmark for AI epistemic reliability — uncertainty handling, hallucination avoidance, and self-knowledge | 🟢 Active |
+[**spyder**](https://github.com/GustyCube/spyder) | Distributed DNS + HTTP crawler with queueing, dedup, tracing, and ingest batching | 🟢 Active |
 | [**EnsuraScript**](https://github.com/GustyCube/EnsuraScript) | Declarative language for defining & enforcing system guarantees — built for DevOps & config management | 🟡 In Progress |
-| [**Codect**](https://github.com/GustyCube/Codect) | Detector for AI-written code | 🟡 In Progress |
 
 <details>
 <summary><b>📦 More Projects</b></summary>
@@ -53,7 +53,6 @@ const gustyCube = {
 |--------|-------------|
 | [**EasilyAI**](https://github.com/GustyCube/EasilyAI) | Python library simplifying AI API usage for beginners |
 | [**discord-mcp**](https://github.com/GustyCube/discord-mcp) | MCP server for interacting with Discord — Claude-compatible |
-| [**spyder**](https://github.com/GustyCube/spyder) | Distributed DNS + HTTP crawler with queueing, dedup, tracing, and ingest batching |
 | [**devswitch**](https://github.com/GustyCube/devswitch) | Instantly switch dev environments across macOS, Linux, Windows from a single CLI |
 | [**GithubCommitsLeaderboard**](https://github.com/GustyCube/GithubCommitsLeaderboard) | Public leaderboard tracking all-time commit contributions across GitHub |
 
