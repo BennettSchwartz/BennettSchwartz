@@ -6,12 +6,12 @@
 
 <br/>
 
-[![GitHub Commits Badge](https://ghcommits.com/api/badge/GustyCube.svg)](https://ghcommits.com)
+[![GitHub Commits Badge](https://ghcommits.com/api/badge/BennettSchwartz.svg)](https://ghcommits.com)
 
 <a href="https://gustycube.com"><img src="https://img.shields.io/badge/Website-gustycube.com-0e75b6?style=flat-square&logo=google-chrome&logoColor=white" /></a>
-<a href="https://github.com/GustyCube"><img src="https://img.shields.io/github/followers/GustyCube?label=Followers&style=flat-square&color=0e75b6" /></a>
-<a href="https://github.com/GustyCube?tab=stars"><img src="https://img.shields.io/github/stars/GustyCube?label=Stars&style=flat-square&color=00D4FF" /></a>
-<img src="https://komarev.com/ghpvc/?username=GustyCube&label=Profile+Views&color=0e75b6&style=flat-square" />
+<a href="https://github.com/BennettSchwartz"><img src="https://img.shields.io/github/followers/BennettSchwartz?label=Followers&style=flat-square&color=0e75b6" /></a>
+<a href="https://github.com/BennettSchwartz?tab=stars"><img src="https://img.shields.io/github/stars/BennettSchwartz?label=Stars&style=flat-square&color=00D4FF" /></a>
+<img src="https://komarev.com/ghpvc/?username=BennettSchwartz&label=Profile+Views&color=0e75b6&style=flat-square" />
 
 </div>
 
@@ -38,12 +38,12 @@ const gustyCube = {
 
 | Project | Description | Status |
 |--------|-------------|--------|
-| [**Membrane**](https://github.com/GustyCube/membrane) | Typed, revisable, decayable memory substrate for agentic AI systems — with competence learning & trust-aware retrieval | 🟢 Active |
+| [**Membrane**](https://github.com/BennettSchwartz/membrane) | Typed, revisable, decayable memory substrate for agentic AI systems — with competence learning & trust-aware retrieval | 🟢 Active |
 | [**Github Commits Leaderboard**](https://ghcommits.com/) | See where you rank against other Github users in all-time commits! | 🟢 Active |
 | [**Ignyte Solutions**](https://ignyte.solutions) | Infrastructure-level networking: portable public IPv4 via WireGuard tunnels & DDoS-filtered edge ingress | 🟢 Active |
-| [**ERR-EVAL**](https://github.com/GustyCube/ERR-EVAL) | Benchmark for AI epistemic reliability — uncertainty handling, hallucination avoidance, and self-knowledge | 🟢 Active |
-[**spyder**](https://github.com/GustyCube/spyder) | Distributed DNS + HTTP crawler with queueing, dedup, tracing, and ingest batching | 🟢 Active |
-| [**EnsuraScript**](https://github.com/GustyCube/EnsuraScript) | Declarative language for defining & enforcing system guarantees — built for DevOps & config management | 🟡 In Progress |
+| [**ERR-EVAL**](https://github.com/BennettSchwartz/ERR-EVAL) | Benchmark for AI epistemic reliability — uncertainty handling, hallucination avoidance, and self-knowledge | 🟢 Active |
+[**spyder**](https://github.com/BennettSchwartz/spyder) | Distributed DNS + HTTP crawler with queueing, dedup, tracing, and ingest batching | 🟢 Active |
+| [**EnsuraScript**](https://github.com/BennettSchwartz/EnsuraScript) | Declarative language for defining & enforcing system guarantees — built for DevOps & config management | 🟡 In Progress |
 
 <details>
 <summary><b>📦 More Projects</b></summary>
@@ -52,10 +52,9 @@ const gustyCube = {
 
 | Project | Description |
 |--------|-------------|
-| [**EasilyAI**](https://github.com/GustyCube/EasilyAI) | Python library simplifying AI API usage for beginners |
-| [**discord-mcp**](https://github.com/GustyCube/discord-mcp) | MCP server for interacting with Discord — Claude-compatible |
-| [**devswitch**](https://github.com/GustyCube/devswitch) | Instantly switch dev environments across macOS, Linux, Windows from a single CLI |
-| [**GithubCommitsLeaderboard**](https://github.com/GustyCube/GithubCommitsLeaderboard) | Public leaderboard tracking all-time commit contributions across GitHub |
+| [**discord-mcp**](https://github.com/BennettSchwartz/discord-mcp) | MCP server for interacting with Discord — Claude-compatible |
+| [**devswitch**](https://github.com/BennettSchwartz/devswitch) | Instantly switch dev environments across macOS, Linux, Windows from a single CLI |
+| [**GithubCommitsLeaderboard**](https://github.com/BennettSchwartz/GithubCommitsLeaderboard) | Public leaderboard tracking all-time commit contributions across GitHub |
 
 </details>
 
@@ -88,17 +87,17 @@ const gustyCube = {
 <table>
 <tr>
 <td>
-<img src="https://github-readme-stats-steel-eight-13.vercel.app/api?username=GustyCube&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" />
+<img src="https://github-readme-stats-steel-eight-13.vercel.app/api?username=BennettSchwartz&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" />
 </td>
 <td>
-<img src="https://github-readme-stats-steel-eight-13.vercel.app/api/top-langs/?username=GustyCube&layout=compact&theme=tokyonight&hide_border=true&langs_count=6&count_private=true" />
+<img src="https://github-readme-stats-steel-eight-13.vercel.app/api/top-langs/?username=BennettSchwartz&layout=compact&theme=tokyonight&hide_border=true&langs_count=6&count_private=true" />
 </td>
 </tr>
 </table>
 
-<img src="https://github-readme-streak-stats-eight.vercel.app/?user=GustyCube&theme=tokyonight&hide_border=true" />
+<img src="https://github-readme-streak-stats-eight.vercel.app/?user=BennettSchwartz&theme=tokyonight&hide_border=true" />
 
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=GustyCube&theme=tokyo-night&hide_border=true&area=true" />
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=BennettSchwartz&theme=tokyo-night&hide_border=true&area=true" />
 
 </div>
 
@@ -107,7 +106,7 @@ const gustyCube = {
 ## 🏆 Achievements
 
 <div align="center">
-<img src="https://github-profile-trophy.vercel.app/?username=GustyCube&theme=tokyonight&no-frame=true&no-bg=true&margin-w=8&row=2&column=6" />
+<img src="https://github-profile-trophy.vercel.app/?username=BennettSchwartz&theme=tokyonight&no-frame=true&no-bg=true&margin-w=8&row=2&column=6" />
 </div>
 
 ---
