@@ -18,7 +18,7 @@
 ---
 
 ```typescript
-const gustyCube = {
+const bennettSchwartz = {
   name:    "Bennett Schwartz (GustyCube)",
   role:    "Full Stack Developer & Systems Builder",
   focus:   ["AI/Agent Systems", "Networking Infrastructure", "Open Source Research"],
